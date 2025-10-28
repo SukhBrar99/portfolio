@@ -1,0 +1,11 @@
+PROJECT: Enterprise Scheduling Transformation — 2,500-Agent Multichannel Contact Centre (Confidential)
+ROLE: Lead Workforce Analyst (Scheduling & Analytics)
+TOOLS: NICE IEX, Genesys WFM, UKG (Kronos), Power BI, SQL, Excel (Power Query, VBA)
+IMPACT:
+• Overtime rate ↓ 22.7% without SLA degradation
+• Schedule adherence ↑ 9.4pp; intraday re‑work ↓ 38%
+• Forecast MAPE improved 18% (30‑min); understaffed intervals ↓ 31%
+• Manager manual roster time ↓ 45%
+HIGHLIGHTS:
+• Rotation catalog (fixed/rotational/bid/seasonal) and channel‑wise coverage curves
+• Exception matrix & adherence policy; automated data pipelines and Power BI dashboards

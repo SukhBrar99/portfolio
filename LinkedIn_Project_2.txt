@@ -1,0 +1,10 @@
+PROJECT: UKG (Kronos) Compliance Alignment & Leave Optimization — 7,200‑Employee Healthcare Network (Confidential)
+ROLE: Scheduling & Systems Analyst — Compliance Workstream Lead
+TOOLS: UKG (Kronos) WFC → Dimensions, Power BI, SQL, Excel (Power Pivot), SharePoint
+IMPACT:
+• Plan‑to‑Pay variance ↓ 34%; compliance violations ↓ 41%
+• Unplanned overtime ↓ 19%; sick‑leave understaffing ↓ 26%
+• Audit cycle time ↓ 52%; scheduling‑related grievances ↓ 28%
+HIGHLIGHTS:
+• 140+ agreement clauses codified; schedule templates; variance & compliance dashboards
+• Leave interaction analytics; exception routing; training & SOPs for adoption
